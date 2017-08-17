@@ -1,0 +1,1722 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "MESH",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#ffffff",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Slabo 27px",
+        "textFont": "Ubuntu",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 96,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "about.html": {
+      "settings": {
+        "title": "INTRODUCTION",
+        "meta_descr": "Site Maker Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "text-align": "left",
+              "color": "#f7da64"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "INTRODUCTION<br>",
+          "text": "<p>Our mental, emotional and social health(MESH) can affect us eiher positively or negatively, emphasizing mainly on the negative aspect. </p><p>in nigeria many people suffer as a result of bad Mesh but are ignorant of it . people do not take it serious and do not seek a therapist advice when struggling with these problems, such as depression, disappointment, divorce, heart break, failure e.t.c which can lead to madness or even SUICIDE.</p><p>&nbsp;This is a means of creating awareness that these problems are real and very serious. Also, it is a means of helping people to deal with such problems through advice and encouragement, so to prevent them from taking wrong steps like suicide, smoking, alcoholise, taking hard drugs e.t.c</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "Building mental, emotional and social health..html": {
+      "settings": {
+        "title": "building mental, social and emotional health",
+        "meta_descr": "Web Site Builder Description",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "18px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-j",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/naturebyabhishekultimatj-2000x1250.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "&nbsp;BUILDING MENTAL, EMOTIONAL&nbsp;<div>AND&nbsp;</div><div>SOCIAL HEALTH</div>",
+          "text": "<p>your emotional and mental health can affect the way you think, feel and behave in the real life. it can also affect your ability to cope with stress, overcome challenges, build relationships, and recover from life's obstacles and hardships.</p><p>there are several....</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"READ MORE on 1. Building mental, emotional and social health..html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "READ MORE on 1. Building mental, emotional and social health..html": {
+      "settings": {
+        "title": "building mental, emotional and social health",
+        "meta_descr": "Web Page Generator Description",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-k",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blue-dock-2000x1250.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>&nbsp;things you can do in order to take control of your mental health. no mater how hopeless or helpless you currently feel, these strategies can help boost your mood, build resiliance and increase your over all enjoyment of life.</p><p>=&gt; connect face to face with supportive people</p><p>=&gt; get moving in fun ways as often as you can</p><p>=&gt; explore a varity of techniques for managing stress</p><p>=&gt; get enough quality sleep &nbsp;</p><p>=&gt; invest in activites that can give your life meaning and purpose</p><p>=&gt; read moyivational books</p><p>=&gt; think positive.</p><p>=&gt; listen to songs that can affect you positively, especially inspirational songs.</p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;HOW DOES MESH AFFECT OUR LIVES</p><p><br></p><p>mental, emotional and social health(mesh) affects the way you feel about your self, the quality of your relationships and your ability to manage feelings, handle stress, and deal with challenges, disapointment and losses.</p><p>the strenght of you MESH directly relates to the level of happiness, satisfaction and conemptment you experience in life as well as your over all health and well being.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "think posiive 1.html": {
+      "settings": {
+        "title": "think positive I",
+        "meta_descr": "Web Page Generator Description",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px",
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "THINK POSITIVE 1<br><br>",
+          "text": "<p>&nbsp; &nbsp;positive thinking is a mental and emotional attitude that focuses on the bright side of life and expects positive results.</p><p>a positive person anticipates....</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"read more on think positive 1.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "read more on think positive 1.html": {
+      "settings": {
+        "title": "think positive I",
+        "meta_descr": "Web Site Builder Description",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>happiness, health and success, and believes he or she can overcome  any obstacle and difficulty.</p><p>positive thinking helps with stress management and can even improve your health.</p><p><br></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HEALTH BENEFITS OF POSITIVE THINKING</p><p><br></p><p><br></p><p>** increased life span</p><p>** lower rates of depression</p><p>**lower levels of distress&nbsp;</p><p>**better psychological and physical well being</p><p>** reduced risk of death from cardiovascular disease</p><p>**better coping skills during hardships and times of stress</p><p><br></p><p>&nbsp; positive thinking is a way of life, with positive attitude we experience pleasant and happy feelings. even our health is affected in a beneficial way. positive and negative thinking are contagious, we affect or are affected by the people we meet in one way or another. this happens instinctively on a subconcious level through words, thoughts and feelings, and even body languages. people are more disposed to help us if we are positive, and they themselves dislike anyone broadcasting negativity.</p><p><br></p><p>negative words, thoughts and attitudes creates negative and unhappy feelings, mood and behaviour.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ****THINK POSITIVE****.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"think positive 2 .html\" data-toolbar=\"-mbrBtnMove\">THINK POSITIVE II</a>"
+        }
+      ]
+    },
+    "think positive 2 .html": {
+      "settings": {
+        "title": "think positie 2",
+        "meta_descr": "Website Maker Description",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-19",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hd-dark-wallpapers-2000x1250.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "THINK POSITIVE II",
+          "text": "<p><b>INSTRUCTIONS AND ADVICE</b></p><p>- Use your imagination to visualise only favourable and beneficial situations</p><p>- Use positive words in your inner dialogues, or when talking with others..very important</p><p>- Smile a little more, as this helps to think positively</p><p>- If a negative thought comes into your mind, quickly replace with a positive one.</p><p>- If a negative thought resists, do not give up, keep looking at the beneficial good and happy thoughts in your mind.</p><p>- Only expect positive results, circumstances and situations will change accordingly.&nbsp;</p><p>- Your thinking affects your approach, remember to take away al the doubts.&nbsp;</p><p>FOCUSING ON POSITIVE THINKING</p><p>* Identify areas to change</p><p>* Check yourself</p><p>* Be open to humor</p><p>* Follow a healthy lifestyle</p><p>* Surround yourself with positive people</p><p>* Practice positive self-talk</p><p>* Put positive thinking into practice everyday.</p><p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "HANDLING DEPRESSION.html": {
+      "settings": {
+        "title": "HANDLING DEPRESSION",
+        "meta_descr": "Web Builder Description",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "18px"
+            },
+            ".lead DIV": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1c",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fruits-copy-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "HANDLING DEPRESSION<br>#HD",
+          "text": "<br><div>&nbsp; &nbsp;Depression is a common but serious mood disorder. It's a state of mind producing serious long term lowering of enjoyment of life, happiness etc. It is the mother of sadness, anger, rage. It lowers your ability to visualize a happy future. It affects how you feel, think , and handle daily activities, such as sleeping, drinking, eating or working.&nbsp;</div><div>&nbsp; Depression is one of the most common mental disorder in Nigeria. As of November 2015 daily trusth recorded about 48 million Nigerians suffering from depression.  Depression can happen at any age, but often begins in adult hood.  But research now shows that depression now occurs in children and adolescents</div><div><br></div><div><b>~~Signs of depression~~</b></div><div><br></div><div>Depression if not handled properly can lead to suicide, low self esteem, low performance in school, fear of the of the unknown (future). How do i know if am depressed?  Because depression is not written on the face. It is like a disease that creeps into your mental faculty slowly. It is like a brain tumor, a virus that affects your mind.</div><div>Some of the signs of depression include</div><div><br></div><div>1. Persistent sad, anxious or empty mood</div><div><br></div><div>2. Feelings of guilt, worthlessness, helplessness</div><div><br></div><div>3. Feelings of hopelessness</div><div><br></div><div>4. Appetite or weight loss</div><div><br></div><div>5. Moving or talking more slowly.</div><div>These and more are some of the signs of depression.&nbsp;</div><div><br></div><div><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>WAYS OF HANDLING DEPRESSION</b></div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"read more on handling depression.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "read more on handling depression.html": {
+      "settings": {
+        "title": "Handling Depression",
+        "meta_descr": "Web Site Maker Description",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead DIV": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".lead P": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1d",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fruits-copy-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>1. Get a routine: that is setting a gentle daily schedule of what you would like to do.  Such as visiting friends, taking a work, because depression can drain life bit by bit.</p><p><br></p><p></p><div>2. Set goals: depression makes you feel like you cannot accomplish anything. It distabilizes your mental state. Set simple goals that you know you can achieve.  It can be as simple as washing plates, sweeping the house, reading a book.  Etc.</div><div><br></div><div>3. Exercise: scientists have discovered that little exercise can boost your endorphins ( they are feel good chemicals). You can perform simple exercise like taking a walk, as for the guys playing gootbal with friends, tennis ludo, scrabble etc</div><div><br></div><div>4. Take on responsibilities: depression can arise as a result of your place of work, as a result of that you may want to pull back from life and give up responsibilities.  Don't staying involved with your responsibilities can help reduce depression.&nbsp;</div><div><br></div><div>5. Try to have fun: hangout with friends watch movies together, play video games together, you can even go to the viewing center to watch a football match.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "MENTAL STATE.html": {
+      "settings": {
+        "title": "MENTAL STATE ",
+        "meta_descr": "Web Maker Description",
+        "order": 14
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1j",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stylishpurplecupblossom-copy-2000x1500.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "MENTAL STATE&nbsp;<br>#MS<br><br>",
+          "text": "will determine if you will enjoy life to the fullest or live in fretting and regret.  Mental state is a state of mind or intellectual process that an agent (someone) is in.<div>The intellectual process has to do with the power of understanding things. your capacity to be aware of these things in a higher level depends on your mental state.</div><div>&nbsp; &nbsp;Healthy mental state is vital to our daily activities, because our state of mind can affect how  we feel, think and do things. What ever you are doing right now or thinking of doing is as a result of your mental state. You see, it controls your entire being. The choices we make in life either good or bad is as a result of our mental state.</div><div><br></div><div>&nbsp; How you handle things, how you deal with people, your constant state of mind, your relationship with your parents all these and more all depends on mental state. Because is what is concieved in your mental faculty that you act out. Remember, every action you take is always premeditated, and every premeditation comes from your mind (MS).</div><div>&nbsp; A healthy mental state is a stepping stone to achieving daily goals, because it is only in achieving your daily goals you can achieve your dream goals.</div><div>The states of mind that an agent can potray includes</div><div>1. Love 2. Hate 3. Pain 4. Pleasure 5. Attitudes.</div><div><br></div><div>How you handle these attributes solely depends on your mental state, and if not handled properly can result in an unhealthy mental state or illness.&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>~~Mental health~~</b></div><div>&nbsp; &nbsp; &nbsp; </div><div>&nbsp;Mental health is a level of psychological (mental behavioural pattern) well-being or an absence of mental illness.  Your mental state if handled properly leads to a healthy mental life, but if handled otherwise can lead to several harmful incidents such as SUICIDE, LOW SELF ESTEEM, etc. Because your mental health condition</div><div>&nbsp; In order for you to achieve WA (japanese word for harmony) with your mind, your mental state must be in order.&nbsp;</div><div>&nbsp;</div><div> Mental illnes are more common than cancer, diabetes malaria or even heart diseases. As of September 2015 professor Chinedu Nebo said \"in Nigeria in a population of about 160 milion or there about, 64 million Nigerians suffer from mental illness.</div><div>&nbsp; Mental illness is not just about mardness as most nigerians may think but it entails how you&nbsp;</div><div><br></div><div>1. Handle the way you reason</div><div><br></div><div>2. Handle the way you love</div><div><br></div><div>3. How you are handling the present economic recession we are in</div><div><br></div><div>4. How you handle relationships both with your parents and loved ones.</div><div><br></div><div>5. How you handle your educational carrier</div><div><br></div><div>6. How you control your emotions.</div><div><br></div><div>&nbsp; Because these and more can affect your mental state in a way that you can never dream of.</div><div>&nbsp; </div><div><b><i>&nbsp;Quote~~ unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.~~</i></b></div><div><br></div><div>Always remember that you can talk to someone, that person can be your mum, dad, your friend and so on.</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"sub mental state.html\" data-toolbar=\"-mbrBtnMove\">MENTAL DISORDERS</a>"
+        }
+      ]
+    },
+    "emotional state.html": {
+      "settings": {
+        "title": "Emotional State",
+        "meta_descr": "Web Page Builder Description",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "30px"
+            },
+            ".lead": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1m",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pink-rose-copy-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "EMOTIONAL STATE&nbsp;<div>#ES</div><div><br></div>",
+          "text": "&nbsp; What are emotions: emotions are positive or negative experiences that are associated with a particular pattern of physiological activity.<div>Your mental state is perceptive to your emotional state at any point in time. Your emotional state controls your actions wether good or bad. If emotions are allowed to lie in shallow grounds, uncontrolled, not catered for, there will be a dominance of wrong and bad choices.</div><div>It is important to note that your ES indirectly affects your behaviour. Research has shown that as we mature we are less likely to act out of emotions. In other words emotional actions are more dominant in the life of the younger generation.&nbsp;</div><div>&nbsp; </div><div>&nbsp; There is a little difference between emotional state and feelings. We have feelings that aren't emotions. For example i can feel hot, cold ,energetic. It is  only when we interpret these feelings that we have emotions.  Where does interpretation occure? In the mind of course. so you see, if your mental state is not properly structured, your emotional state will fumble.  You need a good MENTAL STATE(MS) to achieve a proper EMOTIONAL STATE (ES).</div><div>&nbsp; </div><div>&nbsp; When you have a good emotional state it gives you the right informations, because emotions can produce information. For instance fear is an information about threat. Many people have decided to live in this world without emotions, they think that the logical world is less painful and more practical without emotions.</div><div><br></div><div>~~How ES affect learning, behaviour, and relationship~~</div><div><br></div><div>&nbsp; We need allnof our emotions for thinking, problem solving and focused attention. In order for us to learn anything our minds must be focused and our emotions needs to feel balanced.</div><div>Most people don't know that every and any process of life has to so much to do with learning. You learn to love people, you learn to live with people, you learn to adopt to environmental changes and so on.</div><div>&nbsp; Many people experience heartbreaks because of their rough and in balanced emotional states. Heartbreaks is not just when your boyfriend or girlfriend, husband or wife decides to call it a quite, but heartbreaks can come from any angle, it can come from your friends, your mum, your dad, and even your siblings. It pop out from any where and at anytime. How you deal with it solely depends on how properly you've guided your emotions, because things like this will definitely affect your behaviour, and how you handle future relationships.</div><div>Problems of poor ES</div><div><br></div><div>1. Poor ES can affect your mental state negatively.  A negative ES produces fear, anxiety, depression, hate, regret, death (suicide) etc.</div><div><br></div><div>2. Poor ES leads to poor emotional health( EH). Poor EH leads to abuse of alcohol, drugs etc.</div><div><br></div><div>3. Poor ES can lead to suicide, murder, making wrong choices.</div><div>Solution to poor ES</div><div><br></div><div>1. Always try as much as possible to express your feelings in an appropriate way. When you have feelings of stress, sadness, or anxiety it's very important that you talk to someone especially your loved ones.</div><div><br></div><div>2. Calm your mind and body by listening to good inspirational musics.</div><div><br></div><div>3. Lean on your friend's. Talk to them about your problems</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "sub mental state.html": {
+      "settings": {
+        "title": "MENTAL DISORDER",
+        "meta_descr": "Web Maker Description",
+        "order": 15
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".lead DIV": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stylishpurplecupblossom-copy-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "MENTAL DISORDERS: THE WARNING SIGNS<br><br>",
+          "text": "&nbsp; Mental illness can strike anyone! It knows no age limit, economic status, race, creed or colour. During the course of a year, millions of Nigerians are affected by one or more mental disorders. The signs to watch so we can submit ourselves to counseling are glaring on many of us but we don't care.<div><br></div><div>1. Constant feeling of sadness, irritability or tension.</div><div><br></div><div>2. Decreased interest of pleasure in usual activities or hobbies.</div><div><br></div><div>3. Loss of energy, feeling tired despite lack of activity.</div><div><br></div><div>4. Change in appetite, with significant weight loss or weight gain.</div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">5. A change in sleeping patterns, such as difficulty on sleeping, early morning awakening, or sleeping too much.</span><br></div><div><br></div><div>6. Restlessness or feeling slowed down.</div><div><br></div><div>7. Decreased ability to make decisions or concentrate.</div><div><br></div><div>8. Feelings of worthlessness, hopelessness or guilt.</div><div><br></div><div>9. Thoughts of suicide or death.</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">10. Seeing strange things or hearing strange voices.</span></div><div><br></div><div>11. Inability to forgive or experiencing a prolong and growing bitterness.</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "SUICIDE.html": {
+      "settings": {
+        "title": "SUICIDE",
+        "meta_descr": "Site Generator Description",
+        "order": 16
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "18px"
+            },
+            ".lead DIV": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1s",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sunset-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Article on suicide:<div>Depression the risk factor</div><div><br></div>",
+          "text": "&nbsp; &nbsp; &nbsp;Suicide is the act of intentionally causing one's own death.&nbsp;<div>Recent statistics from the World health organisation (WHO) shows that no fewer than a million people die annually from suicide. There are an estimated 10 to 20 million attempted suicides every year.</div><div><br></div><div>There is no single reason why someone may try to take his or her own life. About 90 percent of people who commit suicide have a mental illness at the time of their death. several mental disorders like bipolar disorder, schizophrenia and depression can contribute to suicide but depression is the risk factor.</div><div>Depression is a common and serious mental illness that negatively affects how you feel, think and act. It causes a feeling of sadness and/or loss of interest in activities once enjoyed. It can lead to a variety of emotional and physical problems. Depression can strike at any time, it can affect anyone, even a person who appears to live in a relatively ideal circumstances. According to the World Health Organisation (WHO), depression is the most common illness worldwide and the leading causes of disability. They estimate that 350 million people are affected by depression, globally.&nbsp;</div><div><br></div><div>&nbsp; &nbsp; &nbsp;Continues exposure to violence, neglect, abuse or poverty may make some people more vulnerable to depression. There are many symptoms of depression but the worst symptom is the thought of death or suicide.</div><div>Depression is a treatable mental illness, ranging from antidepressants to psychotherapy.&nbsp;</div><div>Self-help tips to deal with depression</div><div><br></div><div>* Challenge negative thinking and thoughts of suicide or death</div><div><br></div><div>* Do things that make you feel good, even when you don't feel like</div><div><br></div><div>* Reach out and stay connected to supportive people&nbsp;</div><div><br></div><div>* Learn more about depression by reading the related articles</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"suicide more.html\" data-toolbar=\"-mbrBtnMove\">RELATED ARTICLE</a>"
+        }
+      ]
+    },
+    "suicide more.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "Website Builder Description",
+        "order": 17
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            },
+            ".lead": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "The sting of unhealthy acts and  youths<br><div><br></div><div>Todays topic is suicide</div><div><br></div>",
+          "text": "&nbsp;The rate at which people are committing suicide is alarming, especially in Bayelsa. This is what happens when you have a shaky MESH state. It might not necessarily be suicide.<div>&nbsp;But people don't just commit suicide, it's not premeditated it just happens when frustrations, depression, mental illness, low self esteem, failures, disappointment etc starts to loom in.</div><div> </div><div><br></div><div>When we hear about someone that committed suicide, the only thing that comes into our mind is \"that person nah mumu o, for this sweet life\" I'm a victim of that, big time. That person too might have said something of that sort some other time, and yet when trials and temptation came the outcome was still the same. Let me give some breathtaking suicides that actually happened in Bayelsa last year 2016.&nbsp;</div><div>&nbsp;</div><div> &nbsp;1. A 32 year old man committed suicide at Ikolo in Yenagoa Bayelsa state by drinking sniper</div><div>&nbsp; &nbsp;REASON: his wife was having an affair</div><div>&nbsp; &nbsp;2. An 18 year old girl committed suicide in  Amarata Yenagoa Bayelsa state</div><div>&nbsp; </div><div>&nbsp; REASON: she was forced into an uncompleted building at gun point, and was raped by three guys.</div><div><br></div><div>&nbsp; 3. An engineer who works at Bayelsa state water board, married with kids took his life when his wife left him after he had suffered stroke for 12 months.&nbsp;</div><div>&nbsp; &nbsp; </div><div>REASON: Non payment of salary. Which led to the stroke</div><div>&nbsp; &nbsp;</div><div> &nbsp;DISCUSSION:&nbsp;</div><div>&nbsp; </div><div>1. What advice can you give if someone comes to you with issues relating to any of these cases.</div><div>&nbsp;</div><div>2.  these incidents were they premeditated? or they just happend?</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "Quotes.html": {
+      "settings": {
+        "title": "Quotes",
+        "meta_descr": "Site Creator Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170201-wa0001-2000x1906-800x762.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170201-wa0001-2000x1906.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170203-wa0004-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170203-wa0004-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170204-wa0000-2000x1338-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170204-wa0000-2000x1338.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170207-wa0003-2000x1893-800x757.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170207-wa0003-2000x1893.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170208-wa0001-2000x884-800x353.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170208-wa0001-2000x884.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170210-wa0005-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170210-wa0005-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170211-wa0002-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170211-wa0002-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170212-wa0000-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170212-wa0000-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170216-wa0000-2000x1950-800x780.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170216-wa0000-2000x1950.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-01-30-2000x1777-800x710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-01-30-2000x1777.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-02-2000x875-800x350.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-02-2000x875.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-05-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-05-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-06-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-06-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-2000x1675-800x670.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-2000x1675.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-4-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-1-2000x1675-800x670.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-1-2000x1675.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-02-23-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-02-23-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-04-2000x1759-800x703.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-04-2000x1759.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-07-2000x1397-800x558.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-07-2000x1397.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-08-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-08-2000x2500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-08-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-08-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-12-2000x1808-800x723.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-12-2000x1808.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-12-2000x1637-800x654.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-12-2000x1637.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picsart-03-12-2000x1826-800x730.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picsart-03-12-2000x1826.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1y",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "contact us.html": {
+      "settings": {
+        "title": "CONTACT US",
+        "meta_descr": "Site Generator Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#fac51c"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-21",
+          "_params": {
+            "labelsColor": "#fac51c",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT US",
+          "subtitle": "share &nbsp;your thoughts by filling out the contact form below",
+          "form": {
+            "action": "teammesh42@gmail.com",
+            "alerts": {
+              "success": "Thanks for sharing your thoughts with us"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Full Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Working mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Your Thoughts"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT MESH</a>"
+        }
+      ]
+    },
+    "objectives.html": {
+      "settings": {
+        "title": "Objectives",
+        "meta_descr": "Web Page Creator Description",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#fac51c"
+            },
+            ".lead P": {
+              "color": "#f7da64"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-24",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1341.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "OBJECTIVE",
+          "text": "<p>to create awareness on the causes&nbsp;</p><p>and</p><p>effects of bad or poor emotional and social health</p><p>MESH</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "MESH",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mesh-20170313-128x128.jpg",
+              "height": 128,
+              "alt": "MESH",
+              "link": "index.html",
+              "title": "go to home",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MESH</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"mesh.html#header1-6\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact us.html\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Contact</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"etl-icon icon-pencil mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"think posiive 1.html\">1. think positive I &amp; II</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Building mental, emotional and social health..html\">2. Building mental, emotional &nbsp; &nbsp; &nbsp; and social health.&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HANDLING DEPRESSION.html\">3. Handling Depression</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emotional state.html\">4. Emotional State</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MENTAL STATE.html\">5, Mental State</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SUICIDE.html\">6. Suicide<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">7.&nbsp;The sting of unhealthy acts and youths<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"suicide more.html\">1. SUICIDE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Alcoholism.html\">2. ALCOHOLISM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"technology and ethics.html\">3. Technology and Ethics</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drug Abuse.html\">4.Drug Abuse</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ROLE OF YOUTHS IN NIGERIAN POLITICS.html\" target=\"_blank\">5.&nbsp;ROLE OF YOUTHS IN NIGERIAN POLITICS<br></a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Quotes.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(247, 218, 100);\"></span>Quotes</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"objectives.html\">Objectives</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.dropbox.com/sh/64ct098ppr51j99/AABAFUVJU2z570FI62RQat32a?dl=0\" target=\"_blank\">Download</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "30px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "15px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-size": "16px",
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header1-6",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1344.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "MENTAL EMOTIONAL <br>AND<br>SOCIAL HEALTH (MESH)",
+          "text": "<br><br>visit mesh for updates on articles and quotes...<br>every article and contribution made concerning this movement &nbsp;will be added to the article column.<br>Remember, we are all involved in this one way or the other.&nbsp;<br>#talktosom1.<br><br>PREVIOUS ARTICLE.... Drug Abuse(under The sting of unhealthy acts and youths)<br>LATEST ARTICLE..... Youths and Nigerrian Politics (under The sting of unhealthy acts and youths)",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "social-buttons1-c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3d-nature-wallpaper-landscape-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<br>share mesh"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-14",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Teammesh."
+        }
+      ]
+    },
+    "Alcoholism.html": {
+      "settings": {
+        "title": "ALCOHOLISM",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "16px"
+            },
+            ".lead": {
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".mbr-section-title SPAN": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-27",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x2666.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><br>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The mental effects of ALCOHOLISM</span></p><div><br></div><div>&nbsp; Alcoholism is a chronic disease caused by addiction to alcohol. Notice the use of the word CHRONIC. Chronic as used in this context is talking about a prolonged period of time, that is a problem that reoccures for a prolonged period of time. So therefore alcoholism is a prolonged or reoccuring disease caused by addiction to alcohol. Alcoholism is a disease, it eats you up like cancer. So the more you get involved in alcohols the more your alcoholic state worsen.</div><div>&nbsp; Whenever  alcoholism is mentioned anywere, what comes to our mind is the physical effects, such as dizziness, vomiting, talking out of terms, violence e.t.c. that is, the effects that are visible to the eye. The effects of alcoholism goes beyond the visible ones, there are severe effects to alcohlism such as the mental effects(ME) and this is what we will be discussing. Remember we’ve talked about our mental state and how to keep it in check, I strongly believe we did say something on alcohols too. So you can visit our site to read more on MENTAL STATE(MS).</div><div><br></div><div>*ALCOHOLISM AND HOW IT CAN AFFECTS YOU MENTALLY*</div><div><br></div><div>&nbsp; Alcoholism has psycological effects too, it can affect your mental state aside the physical effects. There is no justification to the amount of alcohol you drink. There is nothing like “nah once once I dey drink oh” or “nah for flexing days only oh”. Alcohol is alcohol, if you like take a drop it still has effects on your mental state(MS). It’s amazing the way young people nowadays drinks and smokes. You will see young boys and girls drinking and smoking away their lives gradually, a friend of mine said “ look at them, they are walking to their graves slowly unknown to them”. In Nigeria is called flexing, “ oboy see flexing”. Well as for the smoking is a discussion for another day.</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Acoholism Read more.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "Acoholism Read more.html": {
+      "settings": {
+        "title": " Alcoholism",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "A",
+          "text": "&nbsp;Have you not asked yourself why is it that rich people gets sick always. If they don’t have lungs problem it will be heart failure and so on and so forth. It’s because they feel coke is too cheap for them, maltina is for children.&nbsp;<div>&nbsp; Alcoholism makes you dull, It brings down your mental capability. It becomes dificult for you to retain what you’ve read. Know this, anybody that offers you alcohol is not interested in your future. Everything great started small, you might be saying it’s just one glass but remenber it’s drops of water that makes an ocean. Many youths don’t know that highness is the same thing as drunkenness, if you drink and get high always you are a drunkard( someone who is habitually drunk). “oboy I just high like anyhow, I no even know myself” don’t worry one day you will miss the road to your house. If you have plans and vision for your life, alcoholism will never be an issue to you.</div><div>&nbsp; Lets take a peek at some of the effects of alcoholism…</div><div><br></div><div>•\tyou experience feelings of nervousness, that is you become nervous for no reason at all.</div><div>•\tAlcoholism can make you sad and depressed. As we all know depression can lead to suicide. To read more on depression you can visit our website.</div><div>•\tIt makes you feel restless</div><div>•\tYou can get irritated over little things, this leads to uncontrolled anger, paranoia, and even hullicination</div><div>•\tAnxiety: when your brain activities are decreased as a result of alcoholism, your level of anxiety increases. you can start having nightmares, and even general discontent.</div><div>•\tAlcoholism changes your personality, it makes you aggressive. People who are given to alcohol talks anyhow. You see, it brings down your morals.&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>&nbsp; When the physical changes starts to dominate you, it affects your emotional state. Emotional instability can cause great damage to your mental state.&nbsp;</div><div><br></div><div>**WHAT ALCOHOLISM CAN DO**</div><div><br></div><div>•\tDebra R said “ I really need help for my husband. He drinks and wants to attack me. Mostly verbally( lack of self control) but the other night he drew a knife at me ( violence) I was scared to death. But the next day he acts like nothing happened”.</div><div>Ladies who are into a relationship with a guy that cannot go to the bathroom without taking a sip, Is like committing suicide. One thing we should know is that anyone given to alcohol cannot control their emotions whenever they are under the influence of alcohol. It’s like hard drugs that knocks your brain out of balance, it takes control of your brain stimuli, it controls your actions.</div><div>•\tblackout and memory slips: Alcohol produce impairments( weakening or disability) in memory. That is, memory lapses that can produce blackout, forgetfullness. Certain things just skips your mind “where did I keep my phone?” all these and more are traceable to alcoholism &nbsp;&nbsp;</div><div>•\tit will also interest you to know that alcoholism causes brain shrinkage. It affects women more than men. So as for the ladies who are drinking alcohol rapidly get ready for your brain shrinkage.</div><div>•\tIt also causes brain damage. It affects your neurotransmitters, chemicals responsible for transmitting signals throughout your whole body that controls your 1. thoughts 2. behaviour and 3. emotions &nbsp; &nbsp; &nbsp; &nbsp; </div><div><br></div><div>**SOLUTIONS TO ALCOHOLISM**</div><div><br></div><div>&nbsp; We always talk about possible solutions, that is what this movement is for, solutions to problems.&nbsp;</div><div>&nbsp; The first thing to note here is that, you cannot force anyone to stop taking alcohols. If you try to force anyone, it may be your spouse, friend relative or even brother or sister, from taking alcohol it will not work you just have to talk to them about it intimately.</div><div>&nbsp; Several people will recommend seeing a doctor, but what you need is talking to supportive people, except for severe cases. If your friends are all alcoholics then you need to change them. Like they say, show me your friend and I will tell you who you are.</div><div>&nbsp; Try as much as you can to stay around people who talks about reasonable things rather than drinking and clubing. You cannot be a clubist and not involed with alcohols.</div><div><br></div><div>FOOD FOR THOUGHT</div><div>1.\tJust imagine if president Buhari is an alcoholic.</div><div><br></div><div>2.\tprof. Yemi Osibanjo is always high( drunk).</div><div><br></div><div>That is to say, if you want to be great there are certain things you &nbsp;just can’t do and one of them is taking alcohol. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "technology and ethics.html": {
+      "settings": {
+        "title": "Technology and Ethics",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".lead DIV": {
+              "text-align": "left"
+            },
+            ".lead": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2b",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#f7da64",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "<div><span style=\"line-height: 1.1;\">TECHNOLOGY AND ETHICS</span><br></div><div><br></div>",
+          "text": "&nbsp; Technology is taking the place of ethics gradually. In This generation we rely more on technology than God, our ethics and believes. In the western world today the rate at which young people are committing suicide is on the rise on daily basis. You see, what we don’t know is that technology makes us feel lonelier than ever. We need to give room to God, ethics, precepts of life and the laws of nature. We are not saying technology is bad, but how you use the technology at your disposal is what we are trying to point out here.<div>&nbsp; Technology has affected our MESH in a way that we seems not to be in control of our daily happenings again. Many youths involved in drug abuse were introduced to the act through the media such as, music videos, songs, movies etc.</div><div>The emotional state of many youth is not balanced as a result of what they have seen and heard. In the area of seen, the major contributor is pornography. It will interest you to know that, pornographic sites are the most visited sites in the world. When you log into a pornographic site all your details are there, even the ip address of your phone.</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"more on technology and ethics.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "more on technology and ethics.html": {
+      "settings": {
+        "title": "Technology and Ethics",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "Most people don’t know that they can be addicted to pornography without even knowing. What pornography does is, it impairs your ability to visualize things, it prevents your mind from seeing clearly, it also blocks your mind from having future plans. As an addict to pornography the only thing that comes to mind is SEX. Someone once said “I watch porn to pass time”, that is how serious it can be.<div>&nbsp; Music is the soul of man that is it affects your inner being; it penetrates into your deepest emotions. Music can break your heart and mold it and that is why music is so revered in the world today. The music you listen to is very important because it affects the way you think. Music is like someone telling you what to do in a melodious way, the truth is you fantasize what you hear and music is a major contributor to that. your life is following a pattern, a pattern you created for yourself by listening to your kind of music. Yes, that is what they call it “my kind of music”. For example, if you are a fan of love songs you will find yourself entangled with so many love issues. Those of us who love gangster related songs; if you are not a gangster already then gangsterism is not far from you. You see, it molds your mind towards the lyrics of the songs.</div><div>As for the ladies who love listening to heart break kind of songs, trusting someone with your heart becomes very difficult. The question is, what kind of music are you listening to?</div><div>Technological advancement has made it easy for young lads to betray what they believe in. when I was young I was taught to work hard in order to be successful. Well these days’ people are looking for every means to get rich as quickly as possible, but the truth is there is no good or genuine shortcut to wealth, except investment. Investment in education, business etc.</div><div>&nbsp; One other thing is online theft. Online theft is so common these days that, young guys are willing to dupe their paddy to get rich. A friend of yours will tell you to invest in an online Ponzi scheme, PH 5k to get 10k that is give 5k to get 10k in return, unknown to the friend that he’s the one running the Ponzi scheme. Well that is what technology can do, it kills your humanity.</div><div>&nbsp; So many Nigerians lost their lives during the advent of MMM Nigeria. What killed them was the get rich without hard work mentality, not MMM. Why? Because they trusted technology more than ethics. On what planet can you give 30k to get 50k without any investment, that is what greed can do to you.</div><div>&nbsp; What we should know is that, there can never be success without hard work. If you are a student and you don’t read, you will fail (laws of nature) there is no magic. Well some student’s will say “we go block the lecturer’s nah” but remember the journey of a thousand miles begins with a step. “nah just this one course nah” that was how Johnson started and now he’s blocking all his courses.</div><div>&nbsp; Don’t live, move and breath on technology, use it when necessary because if you do, it will take your time so much that you will not have time for yourself and this in turn damages your MESH.</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "Drug Abuse.html": {
+      "settings": {
+        "title": "Drug Abuse",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead UL": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CAUSES AND EFFECTS OF DRUG ABUSE<br><br>",
+          "text": "<ul><li>&nbsp; &nbsp; &nbsp; Drug abuse is the habitual taking of addictive or illegal drugs. It is also called substance abuse. Drug abuse is the compulsive, excessive, and self-damaging use of habit forming drugs or substances, leading to addiction or dependence. It can also cause serious damage to kidneys, liver or heart, also dysfunctional behavior patterns, hallucination, memory loss and death.</li></ul><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CAUSES OF DRUG ABUSE</p><p>* Use of drugs by friends/peers</p><p>* Availability of drugs from family and friends/peers</p><p>* Behavioral problems combined with poor parenting</p><p>* Emotional instability</p><p>* Social and academic pressure</p><p>* Inability to naturally cope with stress</p><p>* Low self-esteem or lack of confidence</p><p>* Frustration</p><p>* Misinformation</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;EFFECTS AND HEALTH CONSEQUENCES</p><p>* Heart or lung disease</p><p>* Cancer</p><p>* Addiction (brain disorder)</p><p>* Death</p><p>&nbsp; &nbsp; Drug abuse can change how certain brain circuits work. These brain changes interfere with how people experience normal pleasures in life, their ability to control their stress level, decision making, and ability to learn and remember etc.</p><p>Drug abuse can also affect babies born to women who use drug while pregnant. Drug abuse can also affect one's education level, employment, relationships and criminal involvement.&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WHY DRUG ABUSE IS BAD FOR YOU</p><p>We have seen from the above the causes and effects of drug abuse or substance abuse. Drug abuse affects your Mental, Emotional and Social Health (MESH) negatively. The continues abuse of drugs causes mental disorders and also organ failure in the body. Drug abuse can lead to suicide. It causes mental disorders; it can wreck you emotionally, destroy your social life and Put your health at risk.</p><p>In our society today, Substance abuse is mainly done by youths and teens. Our youths and teens take drugs more than food not knowing or even irrespective of the implications of it and this has caused a lot of problems to society. Let's all take it upon ourselves to create awareness on the causes and effects of drug abuse today....</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "ROLE OF YOUTHS IN NIGERIAN POLITICS.html": {
+      "settings": {
+        "title": "ROLE OF YOUTHS IN NIGERIAN POLITICS",
+        "meta_descr": "Web Site Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead UL": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1336.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ROLE OF YOUTHS IN NIGERIAN POLITICS<div><br></div>",
+          "text": "<div style=\"text-align: left;\"><br></div><p><b><i>#SAY_NO_TO_POLITICAL_SLAVERY</i></b></p><p><b><i>#WE(YOUTHS)_ARE_THE_KINGMAKERS</i></b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The world is no longer asleep, and people have decided to take matters into their own hands. There is a growing mentality in the Nigerian youths that is so disturbing. We (youths) are todays hope, we are not the future of tomorrow, it’s our time. We are not going to die in silence like our fathers did, we have a voice and we are going to use it.</span><br></p><p>In every nation, the population of the youths far exceeds every other age group. But in Nigeria we are behaving like the minority. There is this mentality of selling our votes for a token to politicians, but what we don’t know is that in selling our votes we are actually selling our birthrights, opinions, and our voice. The most painful part of it is that we are selling it for a little token, say 20,000 naira. &nbsp;</p><p>Look at what we are facing today because of our decision, 20k cannot feed you for even a month. We have to start thinking about our future today don’t allow them to deceive you with that little money, you are worth more than that, it’s an insult. That money that you are been given was supposed to be paid into your account on monthly basis if the right person was elected.</p><p>Over the years I have heard boys saying “ him don forget us nah, no be we shoot gun for am for that election.” Why him no go forget you? When you yourself you don’t even know your worth. The truth is you are just a tool in his hands. Most of these politicians their families are not even in this country, and if they are in this country they are living in comfortable places like banana island, wuse Abuja, Ibarra and so on. Don’t trade your life and the future of your born and unborn children for a penny. Don’t belittle yourself; you have something to offer no matter who you are. Let them give the guns to their children if it’s the right thing to do.</p><p>What we don’t know is this; we have become slaves to our own mistakes. Politics in this country is now a family business. The house of assembly member will send his children to the best universities in the world with our money to study, and when they return they will start their political careers were their father stopped and so on and so forth. Since the inception of Bayelsa state till date, there hasn’t been any change of government officials, they are just moving from one political position to another. From a senator to a commissioner, from a commissioner to SSA so on and so forth.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"MORE ON ROLE OF YOUTHS IN NIGERIAN POLITICS.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        }
+      ]
+    },
+    "MORE ON ROLE OF YOUTHS IN NIGERIAN POLITICS.html": {
+      "settings": {
+        "title": "ROLE OF YOUTHS IN NIGERIAN POLITICS",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "17px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mac-hd-background-on-the-berlin-wall-2000x1250.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp;POWER OF THE YOUTHS (KINGMAKERS)</b></p><p><br></p><p>The appointment of leaders is in the hands of the youths in any nation of the world. No man can be a leader without the full support of the youths, if it were possible they would not be paying you to appear in their political campaigns’. The truth is these politicians they know how important we are to their course even if we are ignorant about it. Know this, the power to do and undo is in our hands. Don’t be intimidated by your uncle, brother, neighbor or friend who is aspiring for a political position, you don’t just throw your support at them because of their fallacious political campaign promises. Check their lifestyle, their morals, and their ethos. Check their background, are they credible? can they deliver ?</p><p>As a youth you are a kingmaker, you are that powerful. We are the voice of this nation, and we have to start thinking about our future and the future of our born and unborn children. What we are facing today is as a result of the mistakes our parents made. Most of us we are just interested in the now, what we can get now. What about tomorrow my fellow comrades, your future can be predicted by your actions today. The change we are craving for has to start with us because we are the future of today. The problems we have in this country are accumulated problems, there is no new problem, and our present leaders are only making it worst by not doing anything.</p><p><b>Emmanuel Macron (39)</b> wouldn’t have been the president of France if it was left for the “senior men” as we normally call them. The so called senior men have been toying with us for decades now. In France the kingmakers made a choice, a choice that has turned the life of the youths in France around for good. Today the whole world is talking about the brevity of the youths of France. They knew what they were up against; they were fighting for their future, the same fight that led Ken saro Wiwa to his early grave, Fela kuti and the rest.&nbsp;</p><p><br></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b> YOUTHS AND EDUCATION</b></p><p><br></p><p>Education is the key to success, not just as an individual but as a nation also. Germany, the US, France, Russia, England invested in education and research in the early 1800 and they are the world power today.</p><p>Our leaders are crumbling the educational system because they know that the more people are educated, the higher the tendency for them to know their rights and stand up to them. Most of our youths are uneducated and that is a big problem. A nation is blind without sound educated youths. Take a look at the cost of education in this country, government owned universities are competing with private owned universities in terms of tuition fees. But there is a big robust difference in terms of their learning conditions. It’s so clear that the people you sold your votes to are not interested not just in your future but In the future of your born and unborn children. If that your “boss man or senior man” as we call them, in the house of assembly, senate, or representative, is interested in your future why is he not doing anything about it. The truth is they don’t CARE!</p><p><b>David Wale Feso</b> said “if you want to crumble a nation, kill the educational system”. And it’s so painful that we are completely ignorant about it. You see, they don’t want our eyes to be opened so that they can continue to use us like robots. They know the importance of education and that is why they are sending their children abroad to study in the best universities. If you know these things you will not carry a gun for any politician, if it’s a good thing let them send their children.</p><p>Say no to political slavery, this was what<b> Fela  Kuti </b>fought and died for, he knew this day will come. He saw it coming and decided to create awareness through his music. I want us to remember this line: <b>Fela’s awareness of our problems was through education, he saw clearly through education&nbsp;</b></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"ROLE OF YOUTHS IN NIGERIAN POLITICS.html\" data-toolbar=\"-mbrBtnMove\">THE END</a>"
+        }
+      ]
+    }
+  }
+}
